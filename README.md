@@ -20,7 +20,9 @@ ML1-Parcial1/
 ├── README.md
 ├── data/
 │   ├── dataset_metodos_numericos_completo.csv
-│   └── dataset_metodos_numericos_modelo.csv
+│   ├── dataset_metodos_numericos_modelo.csv
+│   ├── rendimiento_año_2025_ciclo_1_anon.xlsx
+│   └── rendimiento_año_2025_ciclo_2_anon.xlsx
 └── notebooks/
     ├── 01_preprocesamiento.ipynb
     ├── 02_EDA.ipynb
